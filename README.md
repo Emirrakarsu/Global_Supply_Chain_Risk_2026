@@ -36,13 +36,6 @@ Source: <add the dataset source/link here>
 - **Reliability** is almost identical across modes (≈0.75–0.76), so reliability does not explain the lead time differences.
 - **Monthly volume** stays fairly stable, between 173 and 231 shipments per month.
 
-## Charts
-
-| | |
-|---|---|
-| ![Cost by mode](Transport_Mode.svg) | ![Risk distribution](Risk_Scatter.svg) |
-| ![Reliability vs lead time](Reliability_Score.svg) | ![Monthly shipments](Shipment_Size.svg) |
-
 ## Tech stack
 
 Python 3 · Pandas · NumPy · Matplotlib · Jupyter Notebook
